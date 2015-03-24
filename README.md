@@ -1,5 +1,5 @@
-#Mzm Multiple Carousel Module with Bootstrap#
+#Mzm Tab with Bootstrap#
 
-**Bootstrap Multiple Carousel Module** is a module for Joomla 3.0+ which displays a multiple carousel of images
+**Bootstrap Tab Module** is a module for Joomla 3.0+ 
 
 Some HTML changers for display in basic **Bootstrap 3**
